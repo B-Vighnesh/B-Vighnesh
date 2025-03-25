@@ -12,6 +12,6 @@
 ## 🔧 **Tech Stack**
 - **Frontend Frameworks:** React.js
 - **Backend Frameworks:** Spring Boot
-- **Programming Languages:** C, Java, JavaScript, Python
-- **Database:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Postman
+- **Programming Languages:** C, Java
+- **Database:** MySQL
+- **Tools & Platforms:** Git, Postman
