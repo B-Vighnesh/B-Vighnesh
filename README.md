@@ -2,24 +2,18 @@
 
 # B Vighnesh Kumar
 
-Backend-focused Full Stack Developer experienced in building scalable, API-driven applications using Java, Spring Boot, MySQL, and React.js. Strong foundation in data structures, backend architecture, and database design. Passionate about developing efficient systems and solving real-world problems through software.
+Software Developer | Backend-Focused Full Stack Engineer
+Java | Spring Boot | MySQL | React.js
 
 ---
 
-## Profile
+## Professional Summary
 
-Computer Science and Engineering student with hands-on experience developing end-to-end full stack applications. Skilled in designing RESTful APIs, implementing backend logic, and integrating frontend systems with secure database operations.
+Computer Science undergraduate with strong expertise in backend development and full stack application engineering. Experienced in designing and implementing scalable RESTful APIs, database-driven systems, and end-to-end software solutions using Java, Spring Boot, MySQL, and React.js.
 
-Focused on backend development and system design, with working knowledge of frontend technologies to deliver complete production-ready applications.
+Demonstrated ability to develop production-level applications involving secure authentication, database integration, and modular backend architecture. Strong foundation in data structures, object-oriented programming, and system design.
 
----
-
-## Contact
-
-Email: [vighneshsheregar2004@gmail.com](mailto:vighneshsheregar2004@gmail.com)
-LinkedIn: [https://linkedin.com/in/b-vighnesh-kumar](https://linkedin.com/in/b-vighnesh-kumar)
-GitHub: [https://github.com/B-Vighnesh](https://github.com/B-Vighnesh)
-LeetCode: [https://leetcode.com/u/B_Vighnesh_Kumar](https://leetcode.com/u/B_Vighnesh_Kumar)
+Actively seeking Software Engineer and Backend Developer internship and entry-level opportunities.
 
 ---
 
@@ -28,68 +22,86 @@ LeetCode: [https://leetcode.com/u/B_Vighnesh_Kumar](https://leetcode.com/u/B_Vig
 Programming Languages
 Java, C
 
-Frameworks and Libraries
-Spring Boot, React.js
+Backend Development
+Spring Boot, REST API Development, MVC Architecture
+
+Frontend Development
+React.js, HTML, CSS, JavaScript
 
 Database
-MySQL
+MySQL, JDBC, Relational Database Design
 
 Tools and Technologies
-IntelliJ IDEA, Postman, Git, REST APIs
+Git, IntelliJ IDEA, Postman
 
-Core Concepts
+Computer Science Fundamentals
 Data Structures and Algorithms
 Object-Oriented Programming
 Database Management Systems
-Backend Architecture and API Design
+Operating Systems Fundamentals
 
 ---
 
 ## Projects
 
-### AagriGgate
+### AagriGgate — Full Stack Agricultural Marketplace Platform
 
-Tech Stack: Spring Boot, React.js, MySQL
 GitHub: [https://github.com/B-Vighnesh/AagriGgate](https://github.com/B-Vighnesh/AagriGgate)
+Tech Stack: Java, Spring Boot, React.js, MySQL
 
-A full stack web platform designed to connect farmers directly with buyers and eliminate intermediary dependency.
+Designed and developed a full stack web platform enabling direct interaction between farmers and buyers, improving transparency and reducing intermediary dependency.
 
-Key Features
+Responsibilities and Achievements
+
 • Designed and implemented RESTful APIs using Spring Boot
-• Developed responsive frontend using React.js
-• Integrated MySQL database for persistent storage
-• Implemented role-based access control for secure operations
-• Built scalable backend architecture for real-world usage
+• Developed backend business logic for user management and system operations
+• Built responsive frontend interface using React.js
+• Integrated MySQL database for reliable data storage and retrieval
+• Implemented secure role-based access control
+• Designed modular and scalable backend architecture
+
+Technical Impact
+Demonstrates strong backend engineering capability, database integration, and full stack system development.
 
 ---
 
-### Dark Pattern Detector
+### Dark Pattern Detector — Machine Learning Integrated Web System
 
-Tech Stack: Spring Boot, React.js, JavaScript, MySQL, DistillBERT
 GitHub: [https://github.com/B-Vighnesh/Dark-Pattern-Detector](https://github.com/B-Vighnesh/Dark-Pattern-Detector)
+Tech Stack: Spring Boot, React.js, JavaScript, MySQL, DistillBERT
 
-Machine learning based system to detect deceptive patterns on websites through a browser extension.
+Developed a machine learning-based system capable of detecting deceptive UI patterns on websites through browser integration.
 
-Key Features
-• Integrated ML model with browser extension for real-time detection
-• Built backend using Spring Boot for user and feedback management
-• Developed frontend dashboard using React.js
-• Implemented full stack communication between ML system and web interface
+Responsibilities and Achievements
+
+• Integrated machine learning model with browser extension
+• Developed backend services using Spring Boot
+• Built frontend interface using React.js
+• Designed database structure and integrated MySQL
+• Enabled real-time detection and feedback handling
+
+Technical Impact
+Demonstrates ability to integrate machine learning systems with scalable backend infrastructure.
 
 ---
 
-### EquiManage
+### EquiManage — Equipment Management System
 
-Tech Stack: Java, MySQL, JDBC
 GitHub: [https://github.com/B-Vighnesh/EquiManage](https://github.com/B-Vighnesh/EquiManage)
+Tech Stack: Java, MySQL, JDBC
 
-Console-based equipment management system designed to improve tracking and organization of lab equipment.
+Developed a database-driven equipment tracking system for managing laboratory resources efficiently.
 
-Key Features
-• Built inventory management system using Java
-• Integrated MySQL database using JDBC
-• Implemented efficient data storage and retrieval operations
-• Improved equipment tracking and reduced manual effort
+Responsibilities and Achievements
+
+• Developed console-based application using Java
+• Designed relational database schema
+• Integrated MySQL using JDBC
+• Implemented efficient CRUD operations
+• Improved equipment tracking accuracy and organization
+
+Technical Impact
+Demonstrates strong database integration, backend logic implementation, and clean code practices.
 
 ---
 
@@ -99,6 +111,11 @@ Bachelor of Engineering in Computer Science and Engineering
 Canara Engineering College
 Expected Graduation: 2026
 CGPA: 8.26
+
+Relevant Coursework
+Data Structures and Algorithms
+Object-Oriented Programming
+Database Management Systems
 
 ---
 
@@ -110,20 +127,26 @@ Introduction to Databases — Meta (Coursera)
 
 ---
 
-## Areas of Interest
+## Professional Interests
 
 Backend Development
-Full Stack Development
+Software Engineering
 System Design
-API Development
-Database Design
+Scalable Application Development
+Database Architecture
 
 ---
 
-## Current Focus
+## Contact Information
 
-Improving backend architecture skills
-Building scalable Spring Boot applications
-Strengthening data structures and algorithms
-Developing production-level full stack systems
+Email
+[vighneshsheregar2004@gmail.com](mailto:vighneshsheregar2004@gmail.com)
 
+LinkedIn
+[https://linkedin.com/in/b-vighnesh-kumar](https://linkedin.com/in/b-vighnesh-kumar)
+
+GitHub
+[https://github.com/B-Vighnesh](https://github.com/B-Vighnesh)
+
+LeetCode
+[https://leetcode.com/u/B_Vighnesh_Kumar](https://leetcode.com/u/B_Vighnesh_Kumar)
