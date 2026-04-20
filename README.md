@@ -131,7 +131,7 @@ Portfolio: [https://b-vighnesh-portfolio.vercel.app](https://b-vighnesh-portfoli
 
 ## GitHub Stats
 
-```md
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Vighnesh&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Vighnesh&layout=compact)
 ```
