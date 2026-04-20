@@ -114,7 +114,9 @@ Sclera VDMS | Feb 2026 – Present
 ## Education
 
 Bachelor of Engineering in Computer Science and Engineering
+
 Canara Engineering College (Expected 2026)
+
 CGPA: 8.26
 
 ---
