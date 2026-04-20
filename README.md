@@ -3,7 +3,7 @@
 # B Vighnesh Kumar
 
 Backend Developer
-Java | Spring Boot | MySQL | React.js
+| Java | Spring Boot | MySQL | React.js
 
 ---
 
