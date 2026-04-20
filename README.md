@@ -128,10 +128,9 @@ LeetCode: [https://leetcode.com/u/B_Vighnesh_Kumar](https://leetcode.com/u/B_Vig
 Portfolio: [https://b-vighnesh-portfolio.vercel.app](https://b-vighnesh-portfolio.vercel.app)
 
 ---
-
 ## GitHub Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Vighnesh&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Vighnesh&layout=compact)
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B-Vighnesh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Vighnesh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
