@@ -118,14 +118,15 @@ CGPA: 8.26
 * Introduction to Databases — Meta (Coursera)
 
 ---
-
 ## Contact
 
-Email: [bvighneshkumar@gmail.com](mailto:bvighneshkumar@gmail.com)
-LinkedIn: [https://linkedin.com/in/b-vighnesh-kumar](https://linkedin.com/in/b-vighnesh-kumar)
-GitHub: [https://github.com/B-Vighnesh](https://github.com/B-Vighnesh)
-LeetCode: [https://leetcode.com/u/B_Vighnesh_Kumar](https://leetcode.com/u/B_Vighnesh_Kumar)
-Portfolio: [https://b-vighnesh-portfolio.vercel.app](https://b-vighnesh-portfolio.vercel.app)
+Email: [bvighneshkumar@gmail.com](mailto:bvighneshkumar@gmail.com)  
+LinkedIn: https://linkedin.com/in/b-vighnesh-kumar  
+GitHub: https://github.com/B-Vighnesh  
+LeetCode: https://leetcode.com/u/B_Vighnesh_Kumar  
+
+Portfolio:  
+https://b-vighnesh-portfolio.vercel.app
 
 ---
 ## GitHub Stats
