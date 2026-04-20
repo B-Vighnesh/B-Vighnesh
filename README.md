@@ -2,7 +2,7 @@
 
 # B Vighnesh Kumar
 
-Backend-Focused Full Stack Developer
+Backend Developer
 Java | Spring Boot | MySQL | React.js
 
 ---
