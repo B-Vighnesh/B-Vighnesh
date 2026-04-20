@@ -22,36 +22,41 @@ Backend-focused developer with full stack exposure, experienced in building REST
 ## Technical Skills
 
 ### Languages
-
-* Java
-* SQL
-* JavaScript
-* C
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+</p>
 
 ### Backend
-
-* Spring Boot
-* REST API Development
-* MVC Architecture
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/MVC-1E90FF?style=flat"/>
+</p>
 
 ### Frontend
-
-* React.js
-* HTML
-* CSS
-* JavaScript
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
 ### Database
-
-* MySQL
-* JDBC
-* Relational Database Design
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Relational_DB-4B8BBE?style=flat"/>
+</p>
 
 ### Tools
-
-* Git
-* IntelliJ IDEA
-* Postman
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
